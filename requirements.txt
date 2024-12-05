@@ -1,0 +1,6 @@
+imutils==0.5.4
+mediapipe==0.10.18
+numpy==1.26.4
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
+tflite-runtime==2.5.0.post1
